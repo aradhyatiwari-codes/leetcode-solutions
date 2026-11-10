@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0027-remove-element) |
 | [1480-running-sum-of-1d-array](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -19,4 +20,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
