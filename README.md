@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
