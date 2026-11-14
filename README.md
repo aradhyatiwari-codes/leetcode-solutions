@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@
 | [0169-majority-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0169-majority-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -41,6 +44,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,4 +57,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
