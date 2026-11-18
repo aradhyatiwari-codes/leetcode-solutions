@@ -2,19 +2,16 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         int n=nums.size();
-        unordered_map<int,int>mpp;
+        unordered_set<int>st;
    for (int i = 0; i <n; i++)
    {
-    mpp[nums[i]]++;
+    st.insert(nums[i]);
    }
-   for(auto it:mpp){
-    if(it.second>1){
-        return true;
-    }
-   }
-     
-   
+  
+   if(st.size()==nums.size()){
     return false;
+   }
+     return true;
    
     }   
 };
