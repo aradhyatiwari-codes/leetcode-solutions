@@ -1,20 +1,37 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        int n=nums.size();
-       
-        set<int>st;
-        for(int i=0;i<n;i++){
-            st.insert(nums[i]);
+
+        long long largest = LLONG_MIN;
+        long long slargest = LLONG_MIN;
+        long long tlargest = LLONG_MIN;
+
+        for(int i = 0; i < nums.size(); i++) {
+
+            if(nums[i] > largest) {
+
+                tlargest = slargest;
+                slargest = largest;
+                largest = nums[i];
+            }
+
+            else if(nums[i] != largest && nums[i] > slargest) {
+
+                tlargest = slargest;
+                slargest = nums[i];
+            }
+
+            else if(nums[i] != largest && nums[i] != slargest &&
+                    nums[i] > tlargest) {
+
+                tlargest = nums[i];
+            }
         }
-        int in=0;
-        for(auto it :st){
-            nums[in]=it;
-            in++;
+
+        if(tlargest == LLONG_MIN) {
+            return largest;
         }
-        if(in<3){
-            return nums[in-1];
-        }
-        else return nums[in-3];
+
+        return tlargest;
     }
 };
