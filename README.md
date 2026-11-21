@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -80,5 +81,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
