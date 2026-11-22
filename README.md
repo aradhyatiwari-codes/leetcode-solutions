@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0169-majority-element) |
@@ -91,5 +92,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
