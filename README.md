@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -89,6 +91,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
