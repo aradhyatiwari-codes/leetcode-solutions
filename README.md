@@ -62,6 +62,7 @@
 | [0125-valid-palindrome](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0048-rotate-image](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,4 +111,8 @@
 | [0118-pascals-triangle](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/aradhyatiwari-codes/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
